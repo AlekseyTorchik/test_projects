@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [tutBy]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="VerifySelectedGenreOfMovie(failed)" verbose="0">
+    <parameter name="kindOfCinema" value="Фильмы"/>
+    <parameter name="genre" value="Комедия"/>
+    <classes>
+      <class name="pages.TutByTest1">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="startTest"/>
+        </methods>
+      </class> <!-- pages.TutByTest1 -->
+    </classes>
+  </test> <!-- VerifySelectedGenreOfMovie(failed) -->
+  <test thread-count="5" name="VerifySelectedGenreOfSerials(failed)" verbose="0">
+    <parameter name="kindOfCinema" value="Сериалы"/>
+    <parameter name="genre" value="Детектив"/>
+    <classes>
+      <class name="pages.TutByTest2">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="setPageOnlineCinema"/>
+          <include name="startTest"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- pages.TutByTest2 -->
+    </classes>
+  </test> <!-- VerifySelectedGenreOfSerials(failed) -->
+  <test thread-count="5" name="VerifySelectedGenreOfCartoons(failed)" verbose="0">
+    <parameter name="kindOfCinema" value="Мультфильмы"/>
+    <parameter name="genre" value="Фантастика"/>
+    <classes>
+      <class name="pages.TutByTest3">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="startTest"/>
+          <include name="afterClass"/>
+          <include name="setTabOnPageOnlineCinema"/>
+        </methods>
+      </class> <!-- pages.TutByTest3 -->
+    </classes>
+  </test> <!-- VerifySelectedGenreOfCartoons(failed) -->
+</suite> <!-- Failed suite [tutBy] -->

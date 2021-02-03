@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="tutBy" parallel="false">
+    <test name="VerifySelectedGenreOfMovie">
+        <parameter name="kindOfCinema" value="Фильмы"/>
+        <parameter name="genre" value="Комедия"/>
+        <classes>
+            <class name="pages.TutByTest1"/>
+        </classes>
+    </test>
+    <test name="VerifySelectedGenreOfSerials">
+        <parameter name="kindOfCinema" value="Сериалы"/>
+        <parameter name="genre" value="Детектив"/>
+        <classes>
+            <class name="pages.TutByTest2"/>
+        </classes>
+    </test>
+    <test name="VerifySelectedGenreOfCartoons">
+        <parameter name="kindOfCinema" value="Мультфильмы"/>
+        <parameter name="genre" value="Фантастика"/>
+        <classes>
+            <class name="pages.TutByTest3"/>
+        </classes>
+    </test>
+</suite>
