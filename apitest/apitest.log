@@ -1,0 +1,188 @@
+21:36:41,558  INFO main ResponseTest:getTest:24 - Run assert
+21:36:41,573 ERROR main ResponseTest:getTest:26 - Error
+22:04:21,977  INFO main ResponseTest:beforeTest:27 - Run assert. Verify status code
+22:26:35,691  INFO main ResponseTest:statusCodeTest:28 - Run assert. Verify status code
+22:26:36,971  INFO main ResponseTest:sizeOfRecordsTest:37 - Run assert. Verify amount of records
+22:42:36,679  INFO main ResponseTest:statusCodeTest:29 - Run assert. Verify status code
+22:42:37,944  INFO main ResponseTest:sizeOfRecordsTest:38 - Run assert. Verify amount of records
+23:25:01,541  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+23:25:03,024  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+23:29:09,880  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+23:29:11,177  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+23:33:51,089  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+23:33:52,667  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+23:46:20,777  INFO main ResponseTest:statusCodeTest:29 - Run assert. Verify status code
+23:46:22,081  INFO main ResponseTest:sizeOfRecordsTest:38 - Run assert. Verify amount of records
+23:48:23,007  INFO main ResponseTest:statusCodeTest:29 - Run assert. Verify status code
+23:48:24,194  INFO main ResponseTest:sizeOfRecordsTest:38 - Run assert. Verify amount of records
+23:48:44,828  INFO main ResponseTest:statusCodeTest:29 - Run assert. Verify status code
+23:48:46,109  INFO main ResponseTest:sizeOfRecordsTest:38 - Run assert. Verify amount of records
+00:34:11,432  INFO main ResponseTest:statusCodeTest:30 - Run assert. Verify status code
+00:34:12,749  INFO main ResponseTest:sizeOfRecordsTest:39 - Run assert. Verify amount of records
+00:34:12,878  INFO main ResponseTest:getTest:56 - Run assert. Verify each element of owner's list
+01:05:23,626  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+01:05:24,813  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+01:05:24,938  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+01:10:33,387  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+01:10:35,761  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+01:10:35,886  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+01:13:30,828  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+01:13:32,150  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+01:13:32,277  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+10:28:43,161  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+10:28:44,332  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+10:28:44,457  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+10:30:46,654  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+10:30:47,982  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+10:30:48,123  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+10:33:14,797  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+10:33:16,046  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+10:33:16,156  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+10:35:54,074  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+10:35:55,245  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+10:35:55,386  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+10:36:49,874  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+10:36:51,187  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+10:36:51,327  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+10:38:42,213  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+10:38:43,759  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+10:38:43,884  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+10:41:56,656  INFO main ResponseTest:statusCodeTest:31 - Run assert. Verify status code
+10:41:57,812  INFO main ResponseTest:sizeOfRecordsTest:40 - Run assert. Verify amount of records
+10:41:57,952  INFO main ResponseTest:getTest:57 - Run assert. Verify each element of owner's list
+11:07:34,028  INFO main ResponseTest:statusCodeTest:28 - Run assert. Verify status code
+11:07:35,341  INFO main ResponseTest:sizeOfRecordsTest:37 - Run assert. Verify amount of records
+11:07:35,450  INFO main ResponseTest:getTest:54 - Run assert. Verify each element of owner's list
+11:39:37,081  INFO main ResponseTest:statusCodeTest:33 - Run assert. Verify status code
+11:39:38,268  INFO main ResponseTest:sizeOfRecordsTest:42 - Run assert. Verify amount of records
+11:39:38,425  INFO main ResponseTest:objectListTest:52 - Run assert. Verify each element of owner's list
+11:39:38,425  INFO main ResponseTest:linkContainsTest:65 - Run asserts. The link is formed from display_name and user_id
+11:39:38,425  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 0 display_name
+11:39:38,440  INFO main ResponseTest:linkContainsTest:75 - Run assert. The link 0 contains user_id
+11:39:38,440  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 1 display_name
+11:39:38,440  INFO main ResponseTest:linkContainsTest:75 - Run assert. The link 1 contains user_id
+11:39:38,440  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 2 display_name
+11:39:38,440  INFO main ResponseTest:linkContainsTest:75 - Run assert. The link 2 contains user_id
+11:39:38,440  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 3 display_name
+11:39:38,440  INFO main ResponseTest:linkContainsTest:75 - Run assert. The link 3 contains user_id
+11:39:38,440  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 4 display_name
+11:59:35,888  INFO main ResponseTest:statusCodeTest:33 - Run assert. Verify status code
+11:59:38,099  INFO main ResponseTest:sizeOfRecordsTest:42 - Run assert. Verify amount of records
+11:59:38,276  INFO main ResponseTest:objectListTest:52 - Run assert. Verify each element of owner's list
+11:59:38,279  INFO main ResponseTest:linkContainsTest:65 - Run asserts. The link is formed from display_name and user_id
+11:59:38,280  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 0 contains display_name
+11:59:38,282  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 0 contains user_id
+11:59:38,282  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 1 contains display_name
+11:59:38,283  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 1 contains user_id
+11:59:38,284  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 2 contains display_name
+11:59:38,285  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 2 contains user_id
+11:59:38,285  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 3 contains display_name
+11:59:38,287  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 3 contains user_id
+11:59:38,288  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 4 contains display_name
+11:59:38,288  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 4 contains user_id
+11:59:38,288  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 5 contains display_name
+11:59:38,289  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 5 contains user_id
+11:59:38,290  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 6 contains display_name
+11:59:38,291  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 6 contains user_id
+11:59:38,291  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 7 contains display_name
+11:59:38,291  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 7 contains user_id
+11:59:38,292  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 8 contains display_name
+11:59:38,292  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 8 contains user_id
+11:59:38,294  INFO main ResponseTest:linkContainsTest:67 - Run assert. The link 9 contains display_name
+11:59:38,295  INFO main ResponseTest:linkContainsTest:74 - Run assert. The link 9 contains user_id
+12:03:24,483  INFO main ResponseTest:statusCodeTest:33 - Run assert. Verify status code
+12:03:25,759  INFO main ResponseTest:sizeOfRecordsTest:42 - Run assert. Verify amount of records
+12:03:25,889  INFO main ResponseTest:objectListTest:52 - Run assert. Verify each element of owner's list
+12:03:25,896  INFO main ResponseTest:linkContainsTest:65 - Run asserts. Each owner link is formed from display_name and user_id
+12:03:25,902  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [0] contains display_name
+12:03:25,903  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [0] contains user_id
+12:03:25,904  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [1] contains display_name
+12:03:25,904  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [1] contains user_id
+12:03:25,906  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [2] contains display_name
+12:03:25,906  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [2] contains user_id
+12:03:25,906  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [3] contains display_name
+12:03:25,909  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [3] contains user_id
+12:03:25,910  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [4] contains display_name
+12:03:25,911  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [4] contains user_id
+12:03:25,911  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [5] contains display_name
+12:03:25,911  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [5] contains user_id
+12:03:25,913  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [6] contains display_name
+12:03:25,914  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [6] contains user_id
+12:03:25,915  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [7] contains display_name
+12:03:25,915  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [7] contains user_id
+12:03:25,915  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [8] contains display_name
+12:03:25,915  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [8] contains user_id
+12:03:25,921  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [9] contains display_name
+12:03:25,922  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [9] contains user_id
+12:17:10,173  INFO main ResponseTest:statusCodeTest:33 - Run assert. Verify status code
+12:17:11,391  INFO main ResponseTest:sizeOfRecordsTest:42 - Run assert. Verify amount of records
+12:17:11,500  INFO main ResponseTest:objectListTest:52 - Run assert. Verify each element in list of owners
+12:17:11,516  INFO main ResponseTest:linkContainsTest:65 - Run asserts. Each owner link is formed from display_name and user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [0] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [0] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [1] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [1] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [2] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [2] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [3] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [3] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [4] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [4] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [5] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [5] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [6] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [6] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [7] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [7] contains user_id
+12:17:11,516  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [8] contains display_name
+12:17:11,516  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [8] contains user_id
+12:17:11,532  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [9] contains display_name
+12:17:11,532  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [9] contains user_id
+12:19:21,676  INFO main ResponseTest:statusCodeTest:33 - Run assert. Verify status code
+12:19:23,186  INFO main ResponseTest:sizeOfRecordsTest:42 - Run assert. Verify amount of records
+12:19:23,389  INFO main ResponseTest:objectListTest:52 - Run assert. Verify each element in list of owners
+12:19:23,405  INFO main ResponseTest:linkContainsTest:65 - Run asserts. Each owner link is formed from display_name and user_id
+12:19:23,405  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [0] contains display_name
+12:19:23,405  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [0] contains user_id
+12:19:23,421  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [1] contains display_name
+12:19:23,421  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [1] contains user_id
+12:19:23,436  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [2] contains display_name
+12:19:23,436  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [2] contains user_id
+12:19:23,436  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [3] contains display_name
+12:19:23,436  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [3] contains user_id
+12:19:23,452  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [4] contains display_name
+12:19:23,452  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [4] contains user_id
+12:19:23,452  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [5] contains display_name
+12:19:23,452  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [5] contains user_id
+12:19:23,452  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [6] contains display_name
+12:19:23,452  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [6] contains user_id
+12:19:23,452  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [7] contains display_name
+12:19:23,452  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [7] contains user_id
+12:19:23,468  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [8] contains display_name
+12:19:23,468  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [8] contains user_id
+12:19:23,468  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [9] contains display_name
+12:19:23,483  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [9] contains user_id
+12:27:15,878  INFO main ResponseTest:statusCodeTest:33 - Run assert. Verify status code
+12:27:17,096  INFO main ResponseTest:sizeOfRecordsTest:42 - Run assert. Verify amount of records
+12:27:17,206  INFO main ResponseTest:objectListTest:52 - Run assert. Verify each element in list of owners
+12:27:17,206  INFO main ResponseTest:linkContainsTest:65 - Run asserts. Each owner link is formed from display_name and user_id
+12:27:17,206  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [0] contains display_name
+12:27:17,221  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [0] contains user_id
+12:27:17,221  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [1] contains display_name
+12:27:17,221  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [1] contains user_id
+12:27:17,237  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [2] contains display_name
+12:27:17,237  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [2] contains user_id
+12:27:17,237  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [3] contains display_name
+12:27:17,237  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [3] contains user_id
+12:27:17,237  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [4] contains display_name
+12:27:17,237  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [4] contains user_id
+12:27:17,237  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [5] contains display_name
+12:27:17,237  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [5] contains user_id
+12:27:17,253  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [6] contains display_name
+12:27:17,253  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [6] contains user_id
+12:27:17,253  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [7] contains display_name
+12:27:17,253  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [7] contains user_id
+12:27:17,253  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [8] contains display_name
+12:27:17,253  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [8] contains user_id
+12:27:17,253  INFO main ResponseTest:linkContainsTest:67 - Run assert. The owner link [9] contains display_name
+12:27:17,268  INFO main ResponseTest:linkContainsTest:74 - Run assert. The owner link [9] contains user_id
