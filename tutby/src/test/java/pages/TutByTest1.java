@@ -15,6 +15,7 @@ public class TutByTest1 {
     private OnlineCinemaAllGenres onlineCinemaAllGenres;
     private static Logger logger = Logger.getLogger(TutByTest1.class);
 
+
     @BeforeClass
     public void beforeClass() {
         WebDriverManager.chromedriver().setup();
