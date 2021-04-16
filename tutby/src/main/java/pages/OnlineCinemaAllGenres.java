@@ -14,6 +14,7 @@ public class OnlineCinemaAllGenres {
     private WebDriver driver;
     private WebDriverWait wait;
 
+
     @FindBy(xpath = "(//a[contains(@href , 'resource')])[1]")
     private WebElement resources;
 
